@@ -14,10 +14,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vishwanishastri.vishwanishastri)
 
+<img align="right" alt="GIF" src="https://github.com/vishwanishastri/vishwanishastri/blob/master/assets/code1.gif" width="400" height="440" />
+
 <br />
-
-<img align="right" alt="GIF" src="https://github.com/vishwanishastri/vishwanishastri/tree/master/assets/code1.gif" width="200" height="240" />
-
 
 I'm a self-taught passionate Developer from India 🇮🇳
 
