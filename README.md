@@ -16,7 +16,8 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="240" />
+<img align="right" alt="GIF" src="https://github.com/vishwanishastri/vishwanishastri/tree/master/assets/code1.gif" width="200" height="240" />
+
 
 I'm a self-taught passionate Developer from India 🇮🇳
 
