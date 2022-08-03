@@ -15,7 +15,7 @@
 
 <br />
 
-**About me**
+**About Me**
 
 - I'm a self-taught passionate Developer from India 🇮🇳
 
@@ -57,18 +57,18 @@
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-319795?style=flat&logo=AndroidStudio&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-### 📢 Find me elsewhere
+### 📢 Find Me On
 <p align="left">
   <a href="https://leetcode.com/vishwanishastri/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/vishwanishastri/vishwanishastri/blob/master/assets/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.hackerrank.com/vishwanishastri">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/vishwanishastri/vishwanishastri/blob/master/assets/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://www.codewars.com/users/vishwanishastri">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/vishwanishastri/vishwanishastri/blob/master/assets/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>
 
