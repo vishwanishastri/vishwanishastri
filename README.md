@@ -1,33 +1,28 @@
 <p align="center"><img width="80%" alt="Hello, I'm Vishwani." src="./assets/profile.png" /></a></p>
 
-<br />
-
-<a href="https://www.instagram.com/vishwanishastri/">
-  <img align="left" alt="Vishwani's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+<p align="left">
 <a href="https://twitter.com/vishwanishastri">
   <img align="left" alt="Vishwani Shastri | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/vishwanishastri/">
+<a href="https://www.linkedin.com/in/vishwani-shastri/">
   <img align="left" alt="Vishwani's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+ </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vishwanishastri.vishwanishastri)
 
-<img align="right" alt="GIF" src="https://github.com/vishwanishastri/vishwanishastri/blob/master/assets/code1.gif" width="400" height="440" />
+<img align="right" alt="GIF" src="https://github.com/vishwanishastri/vishwanishastri/blob/master/assets/code1.gif" width="500" height="240" />
 
 <br />
 
-I'm a self-taught passionate Developer from India 🇮🇳
-
 **About me**
 
-- 💼 Application Developer at [Kyndryl](https://www.kyndryl.com/us/en)
+- I'm a self-taught passionate Developer from India 🇮🇳
+
+- 💼 Currently working as Application Developer at [Kyndryl](https://www.kyndryl.com/us/en)
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-
-- 📫 How to reach me: [vishwanishastri@gmail.com](mailto:vishwanishastri@gmail.com)
-
+- 📫 Reach me through: [vishwanishastri@gmail.com](mailto:vishwanishastri@gmail.com)
 <br />
 
 
