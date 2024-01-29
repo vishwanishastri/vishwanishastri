@@ -1,14 +1,5 @@
 <p align="center"><img width="80%" alt="Hello, I'm Vishwani." src="./assets/profile.png" /></a></p>
 
-<p align="left">
-<a href="https://twitter.com/vishwanishastri">
-  <img align="left" alt="Vishwani Shastri | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vishwani-shastri/">
-  <img align="left" alt="Vishwani's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
- </p>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=vishwanishastri.vishwanishastri)
 
 <img align="right" alt="GIF" src="https://github.com/vishwanishastri/vishwanishastri/blob/master/assets/code1.gif" width="500" height="240" />
@@ -31,7 +22,6 @@
 
 - Programming Languages
   <br>
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
   ![GoLang](https://img.shields.io/badge/GoLang-FFD43B?style=flat&logo=Go&logoColor=darkgreen)
@@ -86,6 +76,7 @@
   <br>
   ![Microsoft Azure](https://img.shields.io/badge/MicrosoftAzure-430098?style=flat&logo=MicrosoftAzure&logoColor=white)
   ![IBM Cloud](https://img.shields.io/badge/IBMCloud-319795?style=flat&logo=IBMCloud&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-319795?style=flat&logo=GCP&logoColor=white)
   </br>
 - Microcontroller/ Sensors
   <br>
@@ -102,6 +93,8 @@
 - Certifications
   <br>
   ![RHCSA](https://img.shields.io/badge/RedHat-C51A4A?style=flat-square&logo=RedHat)
+  ![Azure-AZ900](https://img.shields.io/badge/AZ-900-C51A4A?style=flat-square&logo=azure)
+  ![DevSecOps](https://img.shields.io/badge/DevSecOps-C51A4A?style=flat-square&logo=devsecops)
   </br>
 
 ### 📢 Find Me On
@@ -109,20 +102,10 @@
   <a href="https://leetcode.com/vishwanishastri/">
     <img src="https://github.com/vishwanishastri/vishwanishastri/blob/master/assets/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/vishwanishastri">
-    <img src="https://github.com/vishwanishastri/vishwanishastri/blob/master/assets/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.codewars.com/users/vishwanishastri">
-    <img src="https://github.com/vishwanishastri/vishwanishastri/blob/master/assets/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
-  </a> &nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-
-| <a href="https://github.com/vishwanishastri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwanishastri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/vishwanishastri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanishastri&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's collaborate for some fun projects</b> :)</em>
