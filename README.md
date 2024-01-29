@@ -22,9 +22,9 @@
 
 - Programming Languages
   <br>
-  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
   ![GoLang](https://img.shields.io/badge/GoLang-FFD43B?style=flat&logo=Go&logoColor=darkgreen)
+  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
   ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
   </br>
 - Scripting Languages
